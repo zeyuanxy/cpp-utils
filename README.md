@@ -6,3 +6,5 @@ A set of utility programs in C++.
 ### Threadsafe_Queue
 
 ### Makefile
+
+### Singleton
