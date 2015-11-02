@@ -1,14 +1,14 @@
 # cpp-utils
 A set of utility programs in C++.
 
-### Logger
+- Logger
 
-### Threadsafe_Queue
+- Threadsafe_Queue
 
-### Makefile
+- Makefile
 
-### Singleton
+- Singleton
 
-### ReadDirectory
+- ReadDirectory
 
-### Mutex
+- Mutex
